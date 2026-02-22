@@ -2,7 +2,7 @@
 
 ## Testing Methodology Overview
 
-This testing framework and toolset, is speicific to evaluating ways to test the effectiveness of Isolation Browsers and download restrictions policies of kiosks. The primary tool and technique associated with this is a carefully-crafted web page setup with LotL binaries (kiosk) or custom payload for adversary emulation of ClickFix style attacks. This project will provide what you need to setup such a page in [Section 3](https://github.com/CroodSolutions/SmuggleKing/tree/main/3%20-%20SmuggleKing%20Application) of this repo to get you started, although we expect testers and researchers will adapt and customize versions of this based upon their own needs. 
+This testing framework and toolset, is speicific to evaluating ways to test the effectiveness of Isolation Browsers and download restriction policies of kiosks. The primary tool and technique associated with this is a carefully-crafted web page setup with LotL binaries (kiosk) or custom payload for adversary emulation of ClickFix style attacks. This project will provide what you need to setup such a page in [Section 3](https://github.com/CroodSolutions/SmuggleKing/tree/main/3%20-%20SmuggleKing%20Application) of this repo to get you started, although we expect testers and researchers will adapt and customize versions of this based upon their own needs. 
 
 ## Proposed Testing Procedures for Isolation Browsers
 (under construction)
