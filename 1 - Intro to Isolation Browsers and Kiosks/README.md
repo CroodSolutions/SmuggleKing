@@ -10,7 +10,7 @@ An isolation browser is a locked down browser, setup to protect against various 
 
 ## Constraints of Kiosk Modes for Introduction of Payloads
 
-For a detailed analysis of kiosks, see our CTRL+ESC+HOST project.
+For a detailed analysis of kiosks, see our [CTRL+ESC+HOST](https://github.com/CroodSolutions/CTRL-ESC-HOST/tree/main) project.
 
 For kiosk hacking in general though, sometimes kiosk modes will contain download restrictions or may be used with an isolation browser, to further reduce the risk of kiosk escape or attacks on adjacent resources.  
 
