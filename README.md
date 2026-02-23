@@ -1,11 +1,20 @@
 # SmuggleKing
 
-## Placeholder: Coming Soon
+## Introducing the SmuggleKing Project 
 This project is to idenfity scenarios where File Smuggling Attacks could allow for beacon payloads, RMM-installers, or LotL binaries to traverse trust boundaries, such as for bypassing Kiosk restrictions and/or Isolation Browsers.
 
-When released it will also include specific testing scenarios, a sample web landing page, and some playbooks for how to apply this as part of your penetation testing / kiosk hacking engagements. 
+## Scenarios for Smuggling LotL Binaries or Beacon Payloads
 
-![SmuggleKing](https://github.com/user-attachments/assets/0740901a-8d7f-4c97-acfb-c062ac96ba2b)
+### Isolation Browsers
+
+### Kiosks 
+
+## Instructions for Setting Up A SmuggleKing Test Instance
+
+
+## Legal and Ethical Notice
+
+Only test on your own isolation browser instances or kiosks and/or with proper written permission and following all appropriate industry ethics and best practices, such as within the scope of a penetration test or bug bounty program. Any views expressed as a part of this project are those of the individual contributors only and do not reflect the views of any of our employers or volunteer organizations.  
 
 ## Key Contributors 
 
